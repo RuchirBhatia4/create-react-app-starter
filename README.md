@@ -33,3 +33,6 @@ not fit to run on railway, for reasons such as:
  - Has a tendency for ram to get out of hand (>600mb)
  - Doesn't listen on the railway provided PORT variable
  - Not as stable or performant as `serve`
+## Setup
+npm install
+npm start
