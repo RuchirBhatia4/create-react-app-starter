@@ -1,6 +1,7 @@
 {
   "name": "create-react-app-starter",
   "version": "0.1.0",
+  "homepage": "https://ruchirbhatia4.github.io/create-react-app-starter",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
